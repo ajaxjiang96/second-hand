@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background: white;
+  align-items: center;
+  margin: auto;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
 }
 
 .App-logo {
@@ -9,18 +15,131 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: white;
+  /* min-height: 100vh; */
+  max-width: 500px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
+  margin: 40px;
+  font-family: source-han-serif-sc, serif;
+  font-weight: 900;
+  font-style: normal;
 }
 
+
+
+.Header-Left {
+  text-align: left
+}
+
+.Header-Right {
+  text-align: right
+}
+
+
+.Body {
+  max-width: 500px;
+  margin: auto 40px;
+}
+
+.Item-container {
+  padding: 30px;
+  border-radius: 20px;
+  border: 1px solid #e6e6e6;
+  color: #666;
+  margin-bottom: 80px
+}
+
+.Item-image {
+  height: 100px;
+  margin-top: -80px;
+  /* border: 1px solid #e6e6e6 */
+}
+
+.Item-name {
+  /* display: block; */
+  font-weight: bolder;
+  color:#333;
+}
+
+.Item-name.sold {
+  /* display: block; */
+  color:#666;
+  text-decoration: line-through;
+}
+
+.Item-brief {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px 0 0 0;
+}
+
+.Item-brief-item-title {
+  font-size: 8px
+}
+
+.Item-brief-item-content.price {
+  color: #FF5332
+}
+
+.Item-detail {
+  text-align: left;
+  margin: 15px 0 0 0;
+}
 .App-link {
   color: #61dafb;
+}
+
+.Footer {
+  margin-bottom: 40px;
+  color: #666
+}
+
+.Footer-text {
+  margin: 20px 40px;
+  font-size: 12px;
+}
+
+.Qrcode {
+  width: 100px;
+  padding: 20px;
+  border: 1px solid #e6e6e6;
+  color: #666;
+  border-radius: 20px;
+}
+
+.Sold-container {
+  border: 3px solid #EA0000;
+  color: #EA0000;
+  padding: 5px;
+  margin: -5px;
+  font-family: source-han-serif-sc, serif;
+  font-weight: 900;
+  font-style: normal;
+}
+.Sold-text-Chinese {
+  /* font-size: 8px; */
+  line-height: 13px;
+  display: flex;
+  /* margin-top: 2px; */
+  justify-content: space-between;
+}
+.Sold-text-English {
+  display: flex;
+  margin-top: 2px;
+  justify-content: space-between;
+  font-size: 7px;
+  line-height: 9px
+}
+
+.TContainer {
+  position: fixed;
+  bottom: 0;
 }
 
 @keyframes App-logo-spin {
