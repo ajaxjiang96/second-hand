@@ -8,9 +8,64 @@ import img6 from '../media/06@1x.png';
 import img7 from '../media/07@1x.png';
 import img8 from '../media/08@1x.png';
 import img9 from '../media/09@1x.png';
+import img10 from '../media/10.png';
+import img11 from '../media/11.png';
+import img12 from '../media/12.png';
+import img13 from '../media/13.png';
+import img17 from '../media/17.png';
 // import img10 from '../media/10@1x.png';
 
 let items = [
+  new Item(
+    "Nespresso Vertuo 咖啡机",
+    img17,
+    "2018.7",
+    100,
+    "$199",
+    "快速出水 清洁方便 剩有胶囊若干",
+    "优秀 咖啡很好喝",
+    false
+  ),
+  new Item(
+    "IKEA LACK茶几",
+    img13,
+    "2015.9",
+    10,
+    "$50",
+    "118x78 cm 双层",
+    "还不错",
+    false
+  ),
+  new Item(
+    "IKEA MALM Full床架",
+    img12,
+    "2014.9",
+    50,
+    "$300",
+    "IKEA经典款床架",
+    "还不错",
+    false
+  ),
+  new Item(
+    "IKEA POÄNG 懒人椅&搁脚凳",
+    img10,
+    "2016.9",
+    70,
+    "$178",
+    "很舒服 坐了就不想起来",
+    "还不错",
+    false
+  ),
+  new Item(
+    "IKEA POÄNG 懒人椅",
+    img11,
+    "2017.9",
+    50,
+    "$149",
+    "很舒服 坐了就不想起来",
+    "还不错",
+    false
+  ),
   new Item(
     "Nespresso Vertuo 咖啡机&打泡机套装",
     img8,
@@ -19,7 +74,7 @@ let items = [
     "$219",
     "快速出水 清洁方便 剩有胶囊若干",
     "优秀 咖啡很好喝",
-    false
+    true
   ),
   new Item(
     "Nintendo 3DS XL 掌机含充电器",
@@ -29,7 +84,7 @@ let items = [
     null,
     "民间高手任天堂 附带三盘游戏",
     "在吃灰 能用",
-    false
+    true
   ),
   new Item(
     "Dell U2414 24寸显示器",
