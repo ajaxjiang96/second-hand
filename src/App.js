@@ -4,7 +4,7 @@ import './App.css';
 import items from './data/items';
 import copy from 'copy-to-clipboard';
 import qr from './media/qrcode@1x.png'
-
+import preval from 'preval.macro';
 // import { ToastContainer, toast } from 'react-toastify';
 // import 'react-toastify/dist/ReactToastify.css';
 
@@ -29,6 +29,9 @@ function App() {
       </div>
       <div className="Footer">
         <p className="Footer-text">各位老板看上任何东西<br/>点一下对应卡片复制名称然后扫下面二维码联系我<br />谢谢</p>
+        <p className="Footer-text">
+            [上次更新: {preval`module.exports = new Date().toLocaleString();`}]
+          </p>
         <img className="Qrcode" src={qr} alt=""/>
         <p className="Footer-text">Copyright © 2019 Jiacheng Jiang</p>
 

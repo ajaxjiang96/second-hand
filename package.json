@@ -5,6 +5,7 @@
   "dependencies": {
     "copy-to-clipboard": "^3.2.0",
     "gh-pages": "^2.0.1",
+    "preval.macro": "^3.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
