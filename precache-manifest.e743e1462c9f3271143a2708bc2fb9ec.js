@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bdf875fa86326c4c8f963df0f9aedf6",
+    "revision": "7d9d0ce426edf9148ca9a881279d8d33",
     "url": "/second-hand/index.html"
   },
   {
-    "revision": "7e24c09c8f457a4a72e0",
+    "revision": "14a544fa356c56a6e2f9",
     "url": "/second-hand/static/css/main.7f6de110.chunk.css"
   },
   {
-    "revision": "2fb2ac3c784357bba4dd",
-    "url": "/second-hand/static/js/2.ddbfe15f.chunk.js"
+    "revision": "aed10a3b74f5129ec4a3",
+    "url": "/second-hand/static/js/2.fcde125c.chunk.js"
   },
   {
-    "revision": "7e24c09c8f457a4a72e0",
-    "url": "/second-hand/static/js/main.9d95a516.chunk.js"
+    "revision": "14a544fa356c56a6e2f9",
+    "url": "/second-hand/static/js/main.477d5287.chunk.js"
   },
   {
     "revision": "b6559dfce125aaac5025",
@@ -74,9 +74,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d0ac521655d50f9bd3459679b1cd620f",
     "url": "/second-hand/static/media/17.d0ac5216.png"
-  },
-  {
-    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
-    "url": "/second-hand/static/media/logo.ee7cd8ed.svg"
   }
 ]);
