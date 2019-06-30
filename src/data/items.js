@@ -44,7 +44,7 @@ let items = [
     "$300",
     "IKEA经典款床架",
     "还不错",
-    false
+    true
   ),
   new Item(
     "IKEA POÄNG 懒人椅&搁脚凳",
