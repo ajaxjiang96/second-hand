@@ -13,9 +13,42 @@ import img11 from '../media/11.png';
 import img12 from '../media/12.png';
 import img13 from '../media/13.png';
 import img17 from '../media/17.png';
+import img18 from '../media/18.png';
+import img19 from '../media/19.png';
+import img20 from '../media/20.png';
 // import img10 from '../media/10@1x.png';
 
 let items = [
+  new Item(
+    "Dell S2417DG 电竞显示器",
+    img20,
+    "2015.9",
+    400,
+    "$499.99",
+    "2K 144FPS Dota随便打 吃鸡不吃力",
+    "几乎和新的一样",
+    false
+  ),
+  new Item(
+    "IKEA TRYSIL Full 床架",
+    img19,
+    "2015.9",
+    50,
+    "$239.00",
+    "极简设计床架",
+    "牢",
+    false
+  ),
+  new Item(
+    "Razer Blackwidow Chroma 键盘",
+    img18,
+    "2015.12",
+    50,
+    "$189.99",
+    "五个自定义游戏键 可以写宏",
+    "手感极佳",
+    false
+  ),
   new Item(
     "Nespresso Vertuo 咖啡机",
     img17,
