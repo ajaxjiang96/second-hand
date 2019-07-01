@@ -57,7 +57,7 @@ let items = [
     "$199",
     "快速出水 清洁方便 剩有胶囊若干",
     "优秀 咖啡很好喝",
-    false
+    true
   ),
   new Item(
     "IKEA LACK茶几",
