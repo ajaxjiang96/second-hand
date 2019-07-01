@@ -24,7 +24,7 @@ import img23 from '../media/23.png';
 let items = [
   new Item(
     "IKEA TJUSIG 衣帽架",
-    img22,
+    img23,
     "2016.11",
     20,
     "$69.99",
