@@ -18,9 +18,20 @@ import img19 from '../media/19.png';
 import img20 from '../media/20.png';
 import img21 from '../media/21.png';
 import img22 from '../media/22.png';
+import img23 from '../media/23.png';
 // import img10 from '../media/10@1x.png';
 
 let items = [
+  new Item(
+    "IKEA TJUSIG 衣帽架",
+    img22,
+    "2016.11",
+    20,
+    "$69.99",
+    "设计很好看 能挂很多东西",
+    "很牢靠",
+    false
+  ),
   new Item(
     "IKEA BREIM 衣橱",
     img22,
@@ -59,7 +70,7 @@ let items = [
     "$239.00",
     "极简设计床架",
     "牢",
-    false
+    true
   ),
   new Item(
     "Razer Blackwidow Chroma 键盘",
@@ -99,7 +110,7 @@ let items = [
     "$300",
     "IKEA经典款床架",
     "还不错",
-    true
+    false
   ),
   new Item(
     "IKEA POÄNG 懒人椅&搁脚凳",
