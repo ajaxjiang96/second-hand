@@ -16,9 +16,20 @@ import img17 from '../media/17.png';
 import img18 from '../media/18.png';
 import img19 from '../media/19.png';
 import img20 from '../media/20.png';
+import img21 from '../media/21.png';
 // import img10 from '../media/10@1x.png';
 
 let items = [
+  new Item(
+    "米家扫地机器人",
+    img21,
+    "2017.1",
+    200,
+    "￥1699",
+    "扫地很干净 附带一套耗材",
+    "可能需要清洁一下",
+    false
+  ),
   new Item(
     "Dell S2417DG 电竞显示器",
     img20,
