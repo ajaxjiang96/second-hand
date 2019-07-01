@@ -17,9 +17,20 @@ import img18 from '../media/18.png';
 import img19 from '../media/19.png';
 import img20 from '../media/20.png';
 import img21 from '../media/21.png';
+import img22 from '../media/22.png';
 // import img10 from '../media/10@1x.png';
 
 let items = [
+  new Item(
+    "IKEA BREIM 衣橱",
+    img22,
+    "2017.9",
+    10,
+    "$39.99",
+    "简易拆装 能挂能叠",
+    "还行",
+    false
+  ),
   new Item(
     "米家扫地机器人",
     img21,
