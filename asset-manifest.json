@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/second-hand/static/css/main.74f45881.chunk.css",
-    "main.js": "/second-hand/static/js/main.2277b814.chunk.js",
-    "main.js.map": "/second-hand/static/js/main.2277b814.chunk.js.map",
+    "main.css": "/second-hand/static/css/main.7f6de110.chunk.css",
+    "main.js": "/second-hand/static/js/main.8974f34f.chunk.js",
+    "main.js.map": "/second-hand/static/js/main.8974f34f.chunk.js.map",
     "runtime~main.js": "/second-hand/static/js/runtime~main.2970c07c.js",
     "runtime~main.js.map": "/second-hand/static/js/runtime~main.2970c07c.js.map",
-    "static/js/2.fcde125c.chunk.js": "/second-hand/static/js/2.fcde125c.chunk.js",
-    "static/js/2.fcde125c.chunk.js.map": "/second-hand/static/js/2.fcde125c.chunk.js.map",
+    "static/js/2.4333b427.chunk.js": "/second-hand/static/js/2.4333b427.chunk.js",
+    "static/js/2.4333b427.chunk.js.map": "/second-hand/static/js/2.4333b427.chunk.js.map",
     "index.html": "/second-hand/index.html",
-    "precache-manifest.2823d84ecc9cbff7d9e2ebd86abb65a0.js": "/second-hand/precache-manifest.2823d84ecc9cbff7d9e2ebd86abb65a0.js",
+    "precache-manifest.3afb4f55c01640d8b6498cb46e6c7715.js": "/second-hand/precache-manifest.3afb4f55c01640d8b6498cb46e6c7715.js",
     "service-worker.js": "/second-hand/service-worker.js",
-    "static/css/main.74f45881.chunk.css.map": "/second-hand/static/css/main.74f45881.chunk.css.map",
+    "static/css/main.7f6de110.chunk.css.map": "/second-hand/static/css/main.7f6de110.chunk.css.map",
     "static/media/01@1x.png": "/second-hand/static/media/01@1x.99b6c00a.png",
     "static/media/02@1x.png": "/second-hand/static/media/02@1x.c6b7916a.png",
     "static/media/03@1x.png": "/second-hand/static/media/03@1x.f1b45043.png",
@@ -24,6 +24,9 @@
     "static/media/11.png": "/second-hand/static/media/11.fcae7f54.png",
     "static/media/12.png": "/second-hand/static/media/12.75d1cbb5.png",
     "static/media/13.png": "/second-hand/static/media/13.93227781.png",
-    "static/media/17.png": "/second-hand/static/media/17.d0ac5216.png"
+    "static/media/17.png": "/second-hand/static/media/17.d0ac5216.png",
+    "static/media/18.png": "/second-hand/static/media/18.12310313.png",
+    "static/media/19.png": "/second-hand/static/media/19.b5d9fc99.png",
+    "static/media/20.png": "/second-hand/static/media/20.721936c0.png"
   }
 }
