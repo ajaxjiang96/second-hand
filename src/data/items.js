@@ -19,9 +19,30 @@ import img20 from '../media/20.png';
 import img21 from '../media/21.png';
 import img22 from '../media/22.png';
 import img23 from '../media/23.png';
+import img24 from '../media/24.png';
 // import img10 from '../media/10@1x.png';
 
 let items = [
+  new Item(
+    "IKEA LERHAMN 小餐桌",
+    img24,
+    "2015.9",
+    15,
+    "$69.99",
+    "轻便",
+    "表面有点老化",
+    false
+  ),
+  new Item(
+    "IKEA LERHAMN 小餐桌",
+    img24,
+    "2015.9",
+    20,
+    "$69.99",
+    "对 就是跟上面一模一样的",
+    "还行",
+    false
+  ),
   new Item(
     "IKEA TJUSIG 衣帽架",
     img23,
