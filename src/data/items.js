@@ -30,7 +30,7 @@ let items = [
     "$69.99",
     "设计很好看 能挂很多东西",
     "很牢靠",
-    false
+    true
   ),
   new Item(
     "IKEA BREIM 衣橱",
@@ -80,7 +80,7 @@ let items = [
     "$189.99",
     "五个自定义游戏键 可以写宏",
     "手感极佳",
-    false
+    true
   ),
   new Item(
     "Nespresso Vertuo 咖啡机",
