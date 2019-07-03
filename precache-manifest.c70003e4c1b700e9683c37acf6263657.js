@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "549cf0cdd3a5e757a1e1086c596f04b4",
+    "revision": "a2ce19bdcdcd4838e26a75a8a0cc687f",
     "url": "/second-hand/index.html"
   },
   {
-    "revision": "4990d60044956734cd21",
+    "revision": "93910a23d52378cb3bc1",
     "url": "/second-hand/static/css/main.74f45881.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/second-hand/static/js/2.ac320f85.chunk.js"
   },
   {
-    "revision": "4990d60044956734cd21",
-    "url": "/second-hand/static/js/main.613fc38a.chunk.js"
+    "revision": "93910a23d52378cb3bc1",
+    "url": "/second-hand/static/js/main.e0b59d46.chunk.js"
   },
   {
     "revision": "b6559dfce125aaac5025",
