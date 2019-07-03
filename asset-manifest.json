@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/second-hand/static/css/main.74f45881.chunk.css",
-    "main.js": "/second-hand/static/js/main.e0b59d46.chunk.js",
-    "main.js.map": "/second-hand/static/js/main.e0b59d46.chunk.js.map",
+    "main.js": "/second-hand/static/js/main.a3e8d517.chunk.js",
+    "main.js.map": "/second-hand/static/js/main.a3e8d517.chunk.js.map",
     "runtime~main.js": "/second-hand/static/js/runtime~main.2970c07c.js",
     "runtime~main.js.map": "/second-hand/static/js/runtime~main.2970c07c.js.map",
-    "static/js/2.ac320f85.chunk.js": "/second-hand/static/js/2.ac320f85.chunk.js",
-    "static/js/2.ac320f85.chunk.js.map": "/second-hand/static/js/2.ac320f85.chunk.js.map",
+    "static/js/2.aa17818c.chunk.js": "/second-hand/static/js/2.aa17818c.chunk.js",
+    "static/js/2.aa17818c.chunk.js.map": "/second-hand/static/js/2.aa17818c.chunk.js.map",
     "index.html": "/second-hand/index.html",
-    "precache-manifest.c70003e4c1b700e9683c37acf6263657.js": "/second-hand/precache-manifest.c70003e4c1b700e9683c37acf6263657.js",
+    "precache-manifest.109e1ef7ff1a9190e781bf7b3f1957b2.js": "/second-hand/precache-manifest.109e1ef7ff1a9190e781bf7b3f1957b2.js",
     "service-worker.js": "/second-hand/service-worker.js",
     "static/css/main.74f45881.chunk.css.map": "/second-hand/static/css/main.74f45881.chunk.css.map",
     "static/media/01@1x.png": "/second-hand/static/media/01@1x.99b6c00a.png",
@@ -30,6 +30,7 @@
     "static/media/20.png": "/second-hand/static/media/20.721936c0.png",
     "static/media/21.png": "/second-hand/static/media/21.7b1f39e1.png",
     "static/media/22.png": "/second-hand/static/media/22.c0a2cb93.png",
-    "static/media/23.png": "/second-hand/static/media/23.57bc400d.png"
+    "static/media/23.png": "/second-hand/static/media/23.57bc400d.png",
+    "static/media/24.png": "/second-hand/static/media/24.ab631ad2.png"
   }
 }
